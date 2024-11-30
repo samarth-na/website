@@ -1,1 +1,1 @@
-[samarthnagar.social]
+[sn.social](https://samarthnagar.social)
